@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Aya's SEKAI",
     // 站点描述
-    description: "Hello World",
+    description: "你生活在什么样的神话里？",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -14,9 +14,9 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "Ob1ivionis",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
+      email: "wmxj3532757658@163.com",
       link: "https://www.imsyy.top",
     },
   },
@@ -32,7 +32,7 @@ export const themeConfig = {
     // https://vitepress.dev/zh/reference/site-config#head
     header: [
       // favicon
-      ["link", { rel: "icon", href: "/favicon.ico" }],
+       ['link', { rel: 'icon', href: '/images/logo/favicon-32x32.webp', type: 'image/webp' }],
       // RSS
       [
         "link",
@@ -239,11 +239,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "wmxj3532757658@163.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://www.github.com/Ob1ivionis/",
       },
       {
         icon: "telegram",
@@ -380,11 +380,12 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: false,
+    enable: true,
     // url
-    url: "https://api-meting.example.com",
+    //url: "https://api-meting.example.com",
+    url: "https://music.163.com/",
     // id
-    id: 9379831714,
+    id: 472832,
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
