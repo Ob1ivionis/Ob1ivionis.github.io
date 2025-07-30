@@ -358,7 +358,7 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "春节",
-        date: "2025-01-29",
+        date: "2026-02-17",
       },
     },
     // 站点数据
@@ -389,7 +389,7 @@ export const themeConfig = {
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
-    type: "playlist",
+    type: "song",
   },
   // 搜索
   // https://www.algolia.com/
