@@ -172,22 +172,22 @@ export default withPwa(
         background_color: "#efefef",
         icons: [
           {
-            src: "https://github.com/Ob1ivionis/Ob1ivionis.github.io/edit/main/public/images/logo/favicon-32x32.webp",
+            src: "/images/logo/favicon-32x32.webp",
             sizes: "32x32",
             type: "image/webp",
           },
           {
-            src: "https://github.com/Ob1ivionis/Ob1ivionis.github.io/edit/main/public/images/logo/favicon-96x96.webp",
+            src: "/images/logo/favicon-96x96.webp",
             sizes: "96x96",
             type: "image/webp",
           },
           {
-            src: "https://github.com/Ob1ivionis/Ob1ivionis.github.io/edit/main/public/images/logo/favicon-256x256.webp",
+            src: "/images/logo/favicon-256x256.webp",
             sizes: "256x256",
             type: "image/webp",
           },
           {
-            src: "https://github.com/Ob1ivionis/Ob1ivionis.github.io/edit/main/public/images/logo/favicon-512x512.webp",
+            src: "/images/logo/favicon-512x512.webp",
             sizes: "512x512",
             type: "image/webp",
           },
