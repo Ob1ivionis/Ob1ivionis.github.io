@@ -380,7 +380,7 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: true,
+    enable: false,
     // url
     //url: "https://api-meting.example.com",
     url: "https://music.163.com/",
